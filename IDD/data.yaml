@@ -1,4 +1,4 @@
-path: IDD
+path: https://github.com/Khushhiii08/IDD_Detection-Dataset-for-YOLO/tree/main
 
 train: images/train
 val: images/val
