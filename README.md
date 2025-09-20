@@ -40,14 +40,14 @@ This repo provides a **cleaned version** of the IDD Detection dataset, specifica
 ## 📂 Repository Structure
 
 ```plaintext
-/cleaned_idd_detection/
-├── images/
-│   ├── train/
-│   ├── val/
-│   └── test/
-├── labels/
-│   ├── train/
-│   ├── val/
-│   └── test/
-├── data.yaml          # YOLO dataset config (paths, classes, nc)
+-/cleaned_idd_detection/
+ ├── images/
+ │   ├── train/
+ │   ├── val/
+ │   └── test/
+ ├── labels/
+ │   ├── train/
+ │   ├── val/
+ │   └── test/
+ ├── data.yaml          # YOLO dataset config (paths, classes, nc)
 └── README.md          # this file
